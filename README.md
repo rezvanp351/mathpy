@@ -9,7 +9,7 @@ Each function includes a detailed explanation and example.
 Clone this repository and run the example file:
 
 ```bash
-python math_examples.py
+mathpy.py
 ```
 
 ---
