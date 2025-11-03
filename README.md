@@ -213,7 +213,7 @@ print("math.isnan(math.nan) =", math.isnan(math.nan))
 👩‍💻 **Created by:** Rezvan Panah  
 📅 **Year:** 2025  
 💬 **Language:** Python 3.10  
-🎯 **Purpose:** Teaching Python functions in a clear and beginner-friendly way.
+🎯 **Purpose:** Python Math.
 
 ---
 
